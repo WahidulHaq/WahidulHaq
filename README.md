@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=wahidulhaqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="wahidulhaqkhan" />
 </p>
 
-- 🔭 I’m currently working on **Django, DRF, AWS, Redis**
+- 🔭 I’m currently working on **Python, DSA,Postgresql,RebbitMQ,Django, DRF, AWS, Redis**
 
 - 🌱 I’m currently learning **AWS, Kubernetes, System Design**
 
