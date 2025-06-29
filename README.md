@@ -5,39 +5,61 @@
   <img src="https://komarev.com/ghpvc/?username=wahidulhaqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="wahidulhaqkhan" />
 </p>
 
-- 🔭 I’m currently working on **Python, DSA,Postgresql,RebbitMQ,Django, DRF, AWS, Redis**
+---
 
-- 🌱 I’m currently learning **AWS, Kubernetes, System Design**
+### 🚀 About Me:
 
-- 💬 Ask me about **Python, Django, PostgreSQL, Redis, APIs**
-
+- 🔭 I’m currently working on **Django, DRF, AWS, Redis, PostgreSQL**
+- 🌱 I’m currently learning **AWS, System Design, Kubernetes**
+- 💬 Ask me about **Python, Django, APIs, PostgreSQL, Redis**
 - 📫 How to reach me **wahidulhaqkhan@gmail.com**
-
-- ⚡ Fun fact **I love solving problems and learning new technologies**
+- ⚡ Fun fact **I love problem-solving and exploring new technologies**
 
 ---
 
-## 🛠️ Tech Stack:
+### 🛠️ Tech Stack:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-05122A?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ---
 
-## 🔥 GitHub Stats:
+### 📈 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahidulhaqkhan&show_icons=true&theme=github_dark" alt="Wahid's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidulhaqkhan&theme=github-dark" alt="Wahid's streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahidulhaqkhan&show_icons=true&theme=github_dark" alt="Wahid's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahidulhaqkhan&theme=github-dark" alt="Wahid's Streak" />
 </p>
 
 ---
 
-## 🌐 Connect with me:
+### 🔗 Connect with Me:
+
 <p align="left">
-  <a href="https://linkedin.com/in/wahidulhaqkhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wahidulhaqkhan" height="30" width="40" /></a>
-  <a href="mailto:wahidulhaqkhan@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="wahidulhaqkhan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/wahidulhaqkhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wahidulhaqkhan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+---
+
+### 🧠 Fun Quote:
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
